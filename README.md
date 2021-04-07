@@ -12,7 +12,7 @@ When I am not head down at work 💻, you can catch me camping, hiking, or readi
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptophobia&count_private=false&show_icons=true&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptophobia&count_private=true&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptophobia&hide=HTML,CSS&langs_count=10&layout=compact&theme=graywhite" />
