@@ -2,7 +2,7 @@
 
 My name is Anton. I enjoy learning new programming languages and working on creative ways to solve interesting problems. I love Linux and open source technologies.
 
-When I am not head down at work 💻, you can catch me camping, hiking, or reading a book.
+When I am not head down at work 💻, you can catch me camping 🏕️, hiking 🥾, or reading a book 📚.
 
 - 🔭 I’m currently working on Kubernetes related things.
 - 🌱 I’m currently learning Golang and getting a degree in cybersecurity.
