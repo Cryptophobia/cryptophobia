@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-My name is Anton. I enjoy learning new programming languages and working on creative ways to solve interesting problems. I love Linux and open source technologies.
+I am Anton. I enjoy learning new programming languages and working on creative ways to solve interesting problems. I love Linux and open source technologies.
 
 When I am not head down at work 💻, you can catch me camping 🏕️, hiking 🥾, or reading a book 📚.
 
