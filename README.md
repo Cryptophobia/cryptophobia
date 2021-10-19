@@ -7,7 +7,7 @@ When I am not head down at work 💻, you can catch me camping 🏕️, hiking �
 - 🔭 I’m currently working on Kubernetes related things.
 - 🌱 I’m learning Golang and getting a degree in cybersecurity from GT.
 - 🔧 I'm maintaining a small PaaS project called [Hephy Workflow](https://web.teamhephy.com/). Check it out!
-- 💬 Enjoying good music 🎸, beer 🍺, coffee ☕, or tea 🍵!
+- 💬 Enjoying good music 🎸🎧, beer 🍺, coffee ☕, or tea 🍵!
 
 <hr>
 
