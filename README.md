@@ -5,9 +5,9 @@ I am Anton. I enjoy learning new programming languages and working on creative w
 When I am not head down at work 💻, you can catch me camping 🏕️, hiking 🥾, or reading a book 📚.
 
 - 🔭 I’m currently working on Kubernetes related things.
-- 🌱 I’m enjoying learning Golang and getting a degree in cybersecurity.
+- 🌱 I’m learning Golang and getting a degree in cybersecurity from GT.
 - 🔧 I'm maintaining a small PaaS project called [Hephy Workflow](https://web.teamhephy.com/). Check it out!
-- 💬 Ask me about good music 🎸, beer 🍺, coffee ☕, or tea 🍵!
+- 💬 Enjoying good music 🎸, beer 🍺, coffee ☕, or tea 🍵!
 
 <hr>
 
