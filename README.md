@@ -14,9 +14,6 @@ When I am not head down at work 💻, you can catch me camping 🏕️, hiking �
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptophobia&count_private=true&show_icons=true&theme=graywhite" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptophobia&hide=HTML,CSS&langs_count=10&layout=compact&theme=graywhite" />
-</a>
 
 <!--
 **Cryptophobia/cryptophobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
